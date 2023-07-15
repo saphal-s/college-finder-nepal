@@ -1,0 +1,58 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  font-family: serif;
+}
+.footer h5 {
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.footer-social-icons {
+  display: flex;
+  gap: 10px;
+  text-align: center;
+}
+.footer-social-icons .icons {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  padding-top: 6px;
+  background-color: #fff;
+  color: #000;
+  font-size: 20px;
+}
+
+.subscribe .title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.subscribe .text {
+  margin-top: -13px;
+}
+.subscribe input {
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+}
+.subscribe button {
+  border: none;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 5px 8px;
+}
+.subs {
+  border-right: 1px solid #fff;
+}
+.footer ul li {
+  list-style: none;
+  padding: 5px 0px;
+}
+.footer .popular,
+.footer .colleges {
+  margin-left: -25px;
+}
+
+.footer .colleges {
+  margin-top: -10px;
+}
